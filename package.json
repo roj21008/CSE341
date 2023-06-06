@@ -2,10 +2,18 @@
   "name": "backend-2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roj21008/CSE341.git"
+  },
   "author": "LUIS <lrojas22@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roj21008/CSE341/issues"
+  },
+  "homepage": "https://github.com/roj21008/CSE341#readme"
 }
