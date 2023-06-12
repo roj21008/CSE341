@@ -1,0 +1,4 @@
+GET http://localhost:8880/users HTTP/1.1
+
+###
+GET http://localhost:8880/users/6486f96b09656f66d88b28f3 HTTP/1.1
